@@ -8,4 +8,9 @@ public class FirstTC {
 	public void addFirstTC() {
 		System.out.println("My first tc in FirstTC java file");
 	}
+	
+	@Test
+	public void addFirstTCSecond() {
+		System.out.println("My first tc in Firsttc 2nd ");
+	}
 }
