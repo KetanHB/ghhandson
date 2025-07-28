@@ -13,4 +13,9 @@ public class FirstTC {
 	public void addFirstTCSecond() {
 		System.out.println("My first tc in Firsttc 2nd ");
 	}
+	
+	@Test
+	public void addFirstTCThird() {
+		System.out.println("Third tc in firstTC java file");
+	}
 }
